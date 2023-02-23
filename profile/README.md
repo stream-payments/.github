@@ -1,8 +1,10 @@
 # Revolutionize the payment industry
 
-StreamPay's mission to revolutionize the payment industry by developing a cutting-edge payment infrastructure is certainly ambitious. By creating a payment system that does not compromise privacy, friction, security, transparency, and store management, StreamPay aims to provide a seamless experience for both merchants and consumers. As the first open cross-chain payment network, StreamPay is paving the way for decentralized payments to become more widely available. By allowing any application to use their payment system and enabling payments to be made anywhere, StreamPay is democratizing payments and making them more accessible.
+StreamPay's mission to revolutionize the payment industry by developing a cutting-edge payment infrastructure is certainly ambitious. By creating a payment system that does not compromise privacy, friction, security, transparency, and store management, StreamPay aims to provide a seamless experience for both merchants and consumers. 
 
 ### Web3 Payments Infrasructure
+
+As the first open cross-chain payment network, StreamPay is paving the way for decentralized payments to become more widely available. By allowing any application to use their payment system and enabling payments to be made anywhere, StreamPay is democratizing payments and making them more accessible.
 
 One key advantage of a decentralized payment system is the added layer of security and transparency it provides. With StreamPay, transactions can be securely processed and tracked on a public blockchain, ensuring that all parties have access to the same information and reducing the risk of fraud or error.
 
