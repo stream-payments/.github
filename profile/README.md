@@ -10,7 +10,7 @@ One key advantage of a decentralized payment system is the added layer of securi
 
 StreamPay's innovative approach to payments has the potential to transform the way we pay for goods and services, and their commitment to privacy, security, and transparency will likely appeal to many consumers and businesses alike.
 
-Stream Protocol / StreamPay is a company that provides a range of services and products related to payment solutions for both private and business customers. In addition to being a platform economy, which likely refers to their digital platform for facilitating transactions, they also offer physical products and other services related to payments.
+Stream Protocol / StreamPay is a company that provides a range of services and products related to web3 payment solutions for both private and business customers. In addition to being a platform economy, which likely refers to their digital platform for facilitating transactions, they also offer physical products and other services related to payments.
 
 This could include blockchain-based payment processing, invoicing and billing services, point-of-sale hardware and software, and other related products and services. StreamPay also offers solutions for managing and tracking payments, as well as providing analytics and reporting tools to help customers better understand their payment activity.
 
