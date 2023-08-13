@@ -1,5 +1,7 @@
 # Revolutionize the payment industry
 
+StreamPayments™ is a revolutionary Solana blockchain-based payment infrastructure and a suite of solutions developed by Stream Protocol.
+
 StreamPayment's mission to revolutionize the payment industry by developing a cutting-edge payment infrastructure is certainly ambitious. By creating a payment system that does not compromise privacy, friction, security, transparency, and store management, StreamPay aims to provide a seamless experience for both merchants and consumers. 
 
 ### Web3 Payments Infrastructure
